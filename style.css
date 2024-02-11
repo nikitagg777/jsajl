@@ -1,0 +1,21 @@
+ header{
+            text-align: right;
+            background-color:#179DCB ;
+            border: 10px solid #179DCB;
+        }
+        h1{
+            text-align: center;
+            color:darkblue;
+        }
+        footer{
+            background-color: #179DCB;
+            border: 10px solid white;
+            color: white;
+        }
+        body{
+            font-family: sans-serif;
+        }
+        img{
+            widht: 30px
+            height:30px
+        }
